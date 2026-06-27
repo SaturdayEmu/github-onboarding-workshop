@@ -1,61 +1,36 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — [OMOTOLANI AWE]
 
 ## Key Concepts I Learned
-
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
-
----
+- Understood the overall expectations of the security and compliance program.
+- Learned how to create a GitHub account step by step.
+- Practiced basic navigation on GitHub (editing profile, exploring repositories, and collaboration features).
+- Got an introduction to optimizing Azure resources to  avoid wasting the limited resources that will be awarded for test purposes only.
 
 ## Lab / Hands-On Work
-
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+I created my GitHub profile and explored the platform’s basic features. This included editing my profile, accessing the MNSUG repository, and submitting assignments through collaboration.
 
 ### What I did
-
+- Successfully created a GitHub account.
+- Edited my profile details.
+- Navigated through repositories and explored collaboration features.
+- Submitted my first assignment using GitHub.
 
 ### What happened / Result
-
+- Everything worked smoothly without errors.
+- As a complete beginner, i was able to complete the required steps as instructed.
 
 ### Challenges I faced
-
-
----
+As a beginner, I was initially unsure about where certain features were located, but with guidance, I was able to figure it out. 
 
 ## My Takeaways
-
-<!-- What was most valuable to you personally from this session? -->
-
-
----
+- The instructors are firm, detailed, and professional.
+- I enjoyed the class and feel motivated to continue learning. 
+- GitHub seems like a powerful tool for collaboration and version control.
 
 ## Questions I Still Have
-
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
-
----
+Emmanuel Oyimafe mentioned that some YouTube pages have good content but lack feasibility to push their work. My question: Can GitHub serve as an optimization tool to support or enhance visibility on other platforms like YouTube?
 
 ## Resources I Found Useful
+Since this was my first class, I haven’t explored additional resources yet, but I plan to check GitHub documentation and tutorials.
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
-
----
-
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Omotolani A. Awe] · [OmotolaniA]*
