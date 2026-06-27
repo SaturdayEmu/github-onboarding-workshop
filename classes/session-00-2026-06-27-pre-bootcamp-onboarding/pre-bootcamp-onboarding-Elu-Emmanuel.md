@@ -1,4 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — Elu Emmanuel
 
 > **How to use this file:**
 > 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
