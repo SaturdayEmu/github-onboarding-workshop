@@ -1,11 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Ikechukwu Ezeonu
 
 ---
 
@@ -13,9 +6,11 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+- How to actively participate in the bootcamp
+- The ground rules for the bootcamp
+- Must be commited to attending classes
+- Inform the mentors before hand before being abscent from the class
+- I learnt how to fork a repo
 
 ---
 
@@ -24,20 +19,20 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+ I downloaded the pre-bootcamp-onboarding file and changed the file name before uploading it to the repo
 
 ### What happened / Result
-
+I successfully uploaded the class task file
 
 ### Challenges I faced
-
+The GitHub interface is still confusing which caused me to upload the file to the main branch instead of the session branch
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
+I can now upload a file to a specific branch
 
 ---
 
@@ -58,4 +53,4 @@
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Ikechukwu Ezeonu · Ikechukwu-Ezeonu*
