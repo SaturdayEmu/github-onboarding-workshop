@@ -267,6 +267,30 @@
     .step h3 { font-size: 0.9rem; font-weight: 700; margin-bottom: 6px; color: var(--text); }
     .step p  { font-size: 0.8rem; color: var(--muted); }
 
+    /* ── COMMUNITY ── */
+    .community-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .community-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      transition: border-color 0.2s, transform 0.15s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+    .community-card:hover { border-color: var(--accent1); transform: translateY(-2px); }
+    .community-icon { font-size: 2rem; }
+    .community-name { font-size: 0.85rem; font-weight: 700; color: var(--text); }
+    .community-handle { font-size: 0.75rem; color: var(--muted); }
+
     /* ── FOOTER ── */
     footer {
       text-align: center;
@@ -885,6 +909,65 @@
         </div>
         <div class="card-body"><div class="submission-count">Submissions: <span>0</span></div><ul class="file-list"><li class="empty-msg">Upcoming</li></ul></div>
       </div>
+
+    </div>
+  </section>
+
+  <!-- COMMUNITY LINKS -->
+  <section id="community">
+    <div class="section-title">🌍 Join the Community</div>
+    <p style="color:var(--muted);font-size:0.875rem;margin-bottom:20px;">
+      Stay connected, watch session recordings, and support the community by following MNSUG on all platforms.
+    </p>
+    <div class="community-grid">
+
+      <a class="community-card" href="https://www.meetup.com/microsoft-naija-security-user-group/" target="_blank">
+        <div class="community-icon">📅</div>
+        <div class="community-name">Meetup</div>
+        <div class="community-handle">Join as a member</div>
+      </a>
+
+      <a class="community-card" href="https://www.youtube.com/watch?v=gLGoNLD_6Ms&list=PLa-LpBaTz1E9aeXW-vgAzwZDOq3viw3CC" target="_blank">
+        <div class="community-icon">📺</div>
+        <div class="community-name">YouTube</div>
+        <div class="community-handle">Bootcamp Playlist</div>
+      </a>
+
+      <a class="community-card" href="https://youtube.com/@naijamicrosoftsecuritygroup" target="_blank">
+        <div class="community-icon">🎬</div>
+        <div class="community-name">YouTube Channel</div>
+        <div class="community-handle">@naijamicrosoftsecuritygroup</div>
+      </a>
+
+      <a class="community-card" href="https://www.linkedin.com/company/microsoft-naija-security-user-group/" target="_blank">
+        <div class="community-icon">💼</div>
+        <div class="community-name">LinkedIn</div>
+        <div class="community-handle">Microsoft Naija Security User Group</div>
+      </a>
+
+      <a class="community-card" href="https://www.instagram.com/microsoftsecurity_usergroup" target="_blank">
+        <div class="community-icon">📸</div>
+        <div class="community-name">Instagram</div>
+        <div class="community-handle">@microsoftsecurity_usergroup</div>
+      </a>
+
+      <a class="community-card" href="https://x.com/naijamicrosoft" target="_blank">
+        <div class="community-icon">🐦</div>
+        <div class="community-name">X (Twitter)</div>
+        <div class="community-handle">@naijamicrosoft</div>
+      </a>
+
+      <a class="community-card" href="https://teams.microsoft.com/meet/21010924982360?p=JkzVsucVZesq5zDYt5" target="_blank">
+        <div class="community-icon">📹</div>
+        <div class="community-name">Teams Meeting</div>
+        <div class="community-handle">Join every Saturday</div>
+      </a>
+
+      <a class="community-card" href="https://forms.cloud.microsoft/r/JTwp82vA4L" target="_blank">
+        <div class="community-icon">✅</div>
+        <div class="community-name">Attendance Form</div>
+        <div class="community-handle">Submit after each session</div>
+      </a>
 
     </div>
   </section>
