@@ -33,14 +33,12 @@ In all, I had a wonderful Onboarding session and I appreciate the team and the m
 ---
 
 ## Questions I Still Have
--
--
+
 None
 ---
 
 ## Resources I Found Useful
 
--
 None
 ---
 
