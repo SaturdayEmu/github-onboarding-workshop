@@ -31,7 +31,7 @@ imported the save file back to make changes
 It was successful
 
 ### Challenges I faced
-I tried opening the repository without forking it first and it failed
+I tried opening the repository without forking it first and it failed.
 
 ---
 
